@@ -13,7 +13,7 @@ Cette application est un système de gestion de produits simple, développé en 
 1. Clonez le dépôt :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repo.git
+    git clone https://github.com/can-aksu34/backend-produit.git
     cd product-management
     ```
 
