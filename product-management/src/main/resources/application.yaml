@@ -1,0 +1,6 @@
+spring-doc:
+  api-docs:
+    path: /docs
+spring:
+  profiles:
+    active: openapi
